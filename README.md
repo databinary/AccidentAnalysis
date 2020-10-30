@@ -11,5 +11,8 @@ R 3.6.3
 Powerpoint
 
 ## Table of Contents
+Scatter plots
+
+Histograms
 
 ## Setup
